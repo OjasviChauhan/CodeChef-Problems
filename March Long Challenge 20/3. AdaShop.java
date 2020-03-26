@@ -28,7 +28,7 @@ class Codechef{
     		           System.out.println(r+" "+c);
     		           count++;
     		       } 
-    		    }
+    		     }
 		    }
 		    //System.out.println(count);
 		}
