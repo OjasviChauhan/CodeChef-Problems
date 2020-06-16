@@ -43,3 +43,5 @@ elif(res == 'G'):
             break
         else:
             continue
+
+    # This code is Partially correct, will get you 15/100 marks
