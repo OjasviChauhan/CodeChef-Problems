@@ -164,3 +164,5 @@ for _ in range(t):
     p,q,r = map(int,input().split())
     a,b,c = map(int,input().split())
     print(check(p,q,r,a,b,c))
+
+# This is Partially correct, will get you 90/100 marks.
