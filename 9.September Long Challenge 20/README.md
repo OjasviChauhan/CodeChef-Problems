@@ -7,3 +7,7 @@
 4. [X] CHFNSWAP
 5. [ ] FINXOR
 6. [X] CRDGAME2
+7. [ ] EQDIV
+8. [ ] ROTATPOL
+9. [ ] VBR
+10. [ ] MOVCOIN2
