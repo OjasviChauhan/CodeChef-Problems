@@ -8,7 +8,7 @@
 4. [X] [**CHFNSWAP**](https://www.codechef.com/SEPT20B/problems/CHFNSWAP)
 5. [ ] [FINXOR](https://www.codechef.com/SEPT20B/problems/FINXOR)
 6. [X] [**CRDGAME2**](https://www.codechef.com/SEPT20B/problems/CRDGAME2)
-7. [ ] EQDIV
-8. [ ] ROTATPOL
-9. [ ] VBR
-10. [ ] MOVCOIN2
+7. [ ] [EQDIV](https://www.codechef.com/SEPT20B/problems/EQDIV)
+8. [ ] [ROTATPOL](https://www.codechef.com/SEPT20B/problems/ROTATPOL)
+9. [ ] [VBR](https://www.codechef.com/SEPT20B/problems/VBR)
+10. [ ] [MOVCOIN2](https://www.codechef.com/SEPT20B/problems/MOVCOIN2)
